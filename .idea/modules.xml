@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/processing-core-kt.iml" filepath="$PROJECT_DIR$/.idea/modules/processing-core-kt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/processing-core-kt_main.iml" filepath="$PROJECT_DIR$/.idea/modules/processing-core-kt_main.iml" group="processing-core-kt" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/processing-core-kt_test.iml" filepath="$PROJECT_DIR$/.idea/modules/processing-core-kt_test.iml" group="processing-core-kt" />
+    </modules>
+  </component>
+</project>
